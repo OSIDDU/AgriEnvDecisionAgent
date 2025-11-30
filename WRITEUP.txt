@@ -1,0 +1,23 @@
+
+CAPSTONE PROJECT WRITEUP
+
+Title:
+AgriEnv Decision Agent — Intelligent Agricultural & Environmental Advisor
+
+Problem:
+Traditional agriculture and pollution management rely on manual judgment.
+
+Solution:
+An intelligent decision agent built using ML models and agent-style architecture.
+
+Key Technology:
+Random Forest, API integration, agent abstraction.
+
+Impact:
+Automated decisions
+Faster prediction
+Reduced error rates
+Real-time support
+
+Future:
+Cloud deploy, IoT integration, deep learning.
